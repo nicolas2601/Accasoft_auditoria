@@ -23,7 +23,7 @@ nav {
 }
 
 .logo {
-    width: 500px;
+    width: 150px;
     height: auto;
 }
 
@@ -120,12 +120,17 @@ ul li {
     margin: 2em 0;
 }
 
-.video-container video {
-    width: 80%;
-    max-width: 800px;
+.video-item {
+    flex: 1 1 calc(33.333% - 40px);
+    box-sizing: border-box;
+    margin-bottom: 1em;
+}
+
+.video-item iframe {
+    width: 100%;
+    height: 200px;
     border: 2px solid #1abc9c;
     border-radius: 10px;
-    margin-bottom: 1em;
 }
 
 footer {
