@@ -44,12 +44,11 @@ nav ul li a:hover {
 }
 .hero {
     height: 100vh;
-    background: url('Backgraund.jpg') no-repeat center center/cover;
     display: flex;
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    color: #ecf0f1;
+    color: #e6e6fa;
     text-align: center;
 }
 .hero h1 {
