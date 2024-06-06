@@ -44,7 +44,7 @@ nav ul li a:hover {
 }
 .hero {
     height: 100vh;
-    background-color: #8a9ad6; /* Color azul suave */
+    background-color: #6495ED; /* Cambiar a un tono azul más claro */
     display: flex;
     justify-content: center;
     align-items: center;
