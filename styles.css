@@ -44,7 +44,7 @@ nav ul li a:hover {
 }
 .hero {
     height: 100vh;
-    background-color: #f0f8ff; /* Color gris oscuro */
+    background-color: #213d5a; /* Color gris oscuro */
     display: flex;
     justify-content: center;
     align-items: center;
